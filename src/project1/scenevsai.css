@@ -1,0 +1,53 @@
+
+
+
+.button{
+    -fx-background-color: yellow;
+    -fx-font-size: 15px;
+    
+    -fx-border-width: 3px;
+    -fx-border-height: 3px;
+    
+}
+#lol{
+    -fx-background-image: url("earth.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 1100 680;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+
+
+
+.choicebox{
+    -fx-background-color: yellowgreen;
+    -fx-font-size: 15px;
+}
+
+
+#back{
+    -fx-background-color: yellowgreen;
+    -fx-border-color: white;
+    -fx-font-size: 15px;
+}
+
+
+
+.label
+{
+    -fx-padding: 5 22 5 22;   
+    -fx-border-color: #e2e2e2;
+    -fx-border-width: 2;
+    -fx-background-radius: 0;
+    -fx-background-color: yellowgreen;
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 18pt;
+    -fx-text-fill: red;
+    -fx-background-insets: 0 0 0 0, 0, 1, 2;
+
+}
+
+
+
+
+
